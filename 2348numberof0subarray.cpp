@@ -10,6 +10,8 @@ long long zero(vector<int>& nums){
             j++;
         }
     }
+
+    
     return count;
 }
 int main()
