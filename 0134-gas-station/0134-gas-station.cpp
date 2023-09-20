@@ -12,6 +12,7 @@ public:
         }
         if(deficit+balance>=0)
             return start;
+        else
         return -1;
     }
 };
