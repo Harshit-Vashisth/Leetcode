@@ -56,9 +56,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
