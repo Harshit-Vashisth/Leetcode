@@ -1,18 +1,13 @@
 class Solution {
 public:
     int maxDifference(string s) {
-        unordered_map<char,int> mp;
-        for(int i=0;i<s.length();i++){
-            mp[s[i]]++;
-        }
-        int mini=INT_MAX;
-        int maxi=INT_MIN;
-        for (auto i: mp){
-            if(i.second%2!=0)
-            maxi=max(maxi,i.second);
-            else mini=min(mini,i.second);
-        }
-        cout<<maxi<<mini;
-        return maxi-mini;
+        vector<int> mpp(26);
+        int maxi = 0, mini = s.size();
+        for (char c : s) mpp[c - 'a']++;
+        for (int i = 0 ; i < 26; i++) {
+            if (mpp[i] % 2 != 0) maxi = max(maxi, mpp[i]);
+            if (mpp[i] % 2 == 0 && mpp[i] > 0) mini = min(mini, mpp[i]);
+        } 
+        return maxi - mini;
     }
 };
