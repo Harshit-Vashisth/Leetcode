@@ -10,38 +10,38 @@
  */
 class Solution {
 public:
-int length(ListNode* head){
-    int count=0;
-    while(head!=NULL){
-        count++;
-        head=head->next;
+    int length(ListNode* &head){
+        int c=0;
+        if(head==NULL)
+        return 0;
+        ListNode* temp=head;
+        while(temp!=NULL)
+        {
+            temp=temp->next;
+            c++;
+        }
+        return c;
     }
-    return count;
-}
-    ListNode* reverseKGroup(ListNode* &head, int k) {
-        if(head==NULL){
-            return NULL;
-        }
-        int len =length(head);
-        if(len<k){
-            cout<<"Enter a valid number"<<endl;
-            return head;
-        }
-        int count=0;
-        ListNode* curr=head;
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if(head==NULL||head->next==NULL)
+        return head;
         ListNode* prev=NULL;
-        ListNode* forward=head->next;
-    
-        while(count<k){
+        ListNode* curr=head;
+        ListNode* forward=head;
+        int c=0;
+        int len=length(head);
+        if(len<k)
+        return head;
+        while(c<k){
             forward=curr->next;
             curr->next=prev;
             prev=curr;
             curr=forward;
-            count++;
+            c++;
         }
-        if(forward!=NULL){
-           head->next= reverseKGroup(forward,k);
-        }
+        //abh dekha jai toh head humari node ka tail and prev top ie headnode
+        if(forward!=NULL)
+            head->next=reverseKGroup(forward,k);
         return prev;
     }
 };
