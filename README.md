@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0069-sqrtx) |
+| [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
