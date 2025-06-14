@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0268-missing-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0135-candy) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
