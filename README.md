@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Math
 |  |
 | ------- |
