@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
