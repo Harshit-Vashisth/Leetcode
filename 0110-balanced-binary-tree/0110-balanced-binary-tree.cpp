@@ -22,14 +22,10 @@ public:
         if(root==NULL)
         return true;
 
-        int lh=height(root->left);
-        int rh=height(root->right);
-        int diff=abs(lh-rh);
-
-    bool ans =(diff<=1);
+      int diff=abs(height(root->left)-height(root->right));
+      bool ans=(diff<=1);
 
         bool leftans=isBalanced(root->left);
-        
         bool rightans=isBalanced(root->right);
         if(ans&&leftans&&rightans)
             return true;
