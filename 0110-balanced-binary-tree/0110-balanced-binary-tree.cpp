@@ -10,26 +10,25 @@
  * };
  */
 class Solution {
-    int height(TreeNode* root){
-        if(root==NULL)
-        return 0;
-        int left=height(root->left);
-        int right=height(root->right);
-        return max(left,right)+1;
-    }
 public:
+    int height(TreeNode* root){
+        if(!root)
+        return 0;
+        int lh=height(root->left);
+        int rh=height(root->right);
+        return max(lh,rh)+1;
+    }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL)
+        if(!root)
         return true;
 
-      int diff=abs(height(root->left)-height(root->right));
-      bool ans=(diff<=1);
-
-        bool leftans=isBalanced(root->left);
-        bool rightans=isBalanced(root->right);
-        if(ans&&leftans&&rightans)
-            return true;
-        else
-            return false;
+        int diff=abs(height(root->left)-height(root->right));
+        int ans1=(diff<=1);
+        int ans2=isBalanced(root->left);
+        
+        int ans3=isBalanced(root->right);
+        if(ans1&&ans2&&ans3)
+        return true;
+        return false;
     }
 };
