@@ -19,10 +19,11 @@ int solve(TreeNode* root){
         return max(lh,rh)+1;
 }
     int diameterOfBinaryTree(TreeNode* root) {
-       
-        int a1=solve(root->left);
-        int a2=solve(root->right);
-        int a3=a1+a2;
+       if(!root)
+       return NULL;
+        int a1=diameterOfBinaryTree(root->left);
+        int a2=diameterOfBinaryTree(root->right);
+        int a3=solve(root->left)+solve(root->right);
    
         return max(a1,max(a2,a3));
     }
