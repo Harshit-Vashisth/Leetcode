@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
