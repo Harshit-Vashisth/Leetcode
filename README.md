@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0812-rotate-string](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0812-rotate-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -254,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Simulation
 |  |
 | ------- |
