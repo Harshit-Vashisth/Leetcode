@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0135-candy) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -357,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
