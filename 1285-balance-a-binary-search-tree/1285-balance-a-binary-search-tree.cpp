@@ -33,8 +33,6 @@ public:
         storeInorder(root,inorder);
         int s=0;
         int e=inorder.size()-1;
-       
-        
         return makebst(inorder,s,e);
         
     }
