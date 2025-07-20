@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0812-rotate-string](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0812-rotate-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Simulation
 |  |
 | ------- |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
