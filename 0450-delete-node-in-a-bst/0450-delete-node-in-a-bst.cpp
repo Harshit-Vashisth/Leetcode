@@ -10,42 +10,43 @@
  * };
  */
 class Solution {
-    int maxi(TreeNode* root){
-        TreeNode* temp=root;
-        if(!root)return -1;
-        while(temp->right!=NULL){
-            temp=temp->right;
-        }
-        return temp->val;
-    }
 public:
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        if(!root)return NULL;
-        if(root->val==key){
-            if(!root->left&&!root->right){
-            // delete root;
-            return NULL;
-        }
-        else if(root->left&&!root->right){
-        TreeNode* child=root->left;
-        delete root;
-        return child;}
-        else if(!root->left && root->right){
-            TreeNode* child=root->right;
-            delete root;
-            return child;
-        }
-        else{
-            int inorderpredecessor=maxi(root->left);
-            root->val=inorderpredecessor;
-            root->left=deleteNode(root->left,inorderpredecessor);
-            return root;
-        }
+int a=0;
+    int maxi(TreeNode* root){
+        if(!root)
+        return a;
+        a=root->val;
+        maxi(root->left);
+        return a;
     }
-    else if(root->val<key)
-    root->right=deleteNode(root->right,key);
-    else
-    root->left=deleteNode(root->left,key);
-    return root;
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if(!root) return root;
+        if(root->val==key){
+            if(!root->left&&!root->right)
+            return NULL;
+            else if(!root->left&&root->right){
+                TreeNode* child=root->right;
+                delete root;
+                return child;
+            }
+            else if(root->left&&!root->right){
+                TreeNode* child=root->left;
+                delete root;
+                return child;
+            }
+            else{
+                int inorder=maxi(root->right);
+                cout<<inorder;
+                root->val=inorder;
+                root->right=deleteNode(root->right,inorder);
+            }
+            
+        }
+        if(root->val<key){
+                root->right= deleteNode(root->right,key);
+            }
+        
+                root->left= deleteNode(root->left,key);
+          return root;
     }
 };
