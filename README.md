@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
