@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int solve(vector<int>& prices,int i,int n,int maxi,int mini){
-        if(i>n)
-        return maxi;
-        if(prices[i]<mini)
-            mini=prices[i];
-        int k=prices[i]-mini;
-        if(k>maxi)
-        maxi=k;
-        return solve(prices,i+1,n,maxi,mini);
+int ans=0;
+    int solve(vector<int>& prices,int s,int mini){
+        if(s>=prices.size())
+        return ans;
+        if(prices[s]<mini)
+        mini=prices[s];
+        int k=prices[s]-mini;
+        if(k>ans)
+        ans=k;
+        return solve(prices,s+1,mini);
     }
     int maxProfit(vector<int>& prices) {
-        if(prices.empty())
-        return 0;
-        int maxi=0,mini=INT_MAX;
-        return solve(prices,0,prices.size()-1,maxi,mini);
+        int s=0,mini=INT_MAX;
+        return solve(prices,s,mini);
     }
 };
