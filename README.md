@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3396-valid-word) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Matrix
