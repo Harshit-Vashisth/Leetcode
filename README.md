@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
