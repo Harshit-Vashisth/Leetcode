@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0912-sort-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
