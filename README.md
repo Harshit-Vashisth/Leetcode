@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0912-sort-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0867-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
