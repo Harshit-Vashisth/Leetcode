@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2427-number-of-common-factors](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2427-number-of-common-factors](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
@@ -509,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0912-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
