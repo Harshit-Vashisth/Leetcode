@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2427-number-of-common-factors](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2485-find-the-pivot-integer](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Breadth-First Search
