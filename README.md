@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Harshit-Vashisth/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
