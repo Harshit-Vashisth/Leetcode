@@ -8,7 +8,6 @@ public:
             mid=s+(e-s)/2;
             row=mid/m;
             col=mid%m;
-            cout<<row<<col<<matrix[row][col]<<endl;
             if(matrix[row][col]<target)
             s=mid+1;
             else if(matrix[row][col]>target)
