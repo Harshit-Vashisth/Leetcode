@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0189-rotate-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
