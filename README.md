@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0658-find-k-closest-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0912-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/Harshit-Vashisth/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1813-maximum-erasure-value](https://github.com/Harshit-Vashisth/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Harshit-Vashisth/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
